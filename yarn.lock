@@ -1528,7 +1528,7 @@ promise-polyfill@^6.0.2:
 
 promise-polyfill@^8.1.0:
   version "8.1.0"
-  resolved "http://registry.npm.taobao.org/promise-polyfill/download/promise-polyfill-8.1.0.tgz#30059da54d1358ce905ac581f287e184aedf995d"
+  resolved "https://registry.yarnpkg.com/promise-polyfill/-/promise-polyfill-8.1.0.tgz#30059da54d1358ce905ac581f287e184aedf995d"
 
 promise@^7.1.1:
   version "7.3.1"
@@ -1951,7 +1951,7 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-wepy-async-function@^1.4.4:
+wepy-async-function@^1.4.7:
   version "1.4.7"
   resolved "https://registry.yarnpkg.com/wepy-async-function/-/wepy-async-function-1.4.7.tgz#f783164306e175d9a7c2656a33532e619c8eae16"
   dependencies:
